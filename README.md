@@ -1,2 +1,2 @@
-# preueba
+# prueba
 prueba de publicación
